@@ -150,7 +150,7 @@ body {
 }
 .product-review {
     height: 300px;
-    overflow: scroll;
+    overflow-y: scroll;
 }
 
 .product-review h5 {
@@ -176,4 +176,24 @@ body {
 /* Category Product */
 .category {
     margin-top:80px;
+}
+
+/*https://css-tricks.com/custom-scrollbars-in-webkit/ */
+/* Custom Scrollbars in WebKit */
+
+/* Let's get this party started */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
 }
