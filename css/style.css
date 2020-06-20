@@ -1,5 +1,6 @@
 body {
     font-family: 'Montserrat';
+   /* height: 2000px;*/
 }
 
 .navbar {
@@ -33,13 +34,13 @@ body {
     font-weight: 200;
 }
 
-.features h3, .designer h3 {
+.features h3, .designer h3, .similar-product h3 {
     font-family: 'Lora';
     color: #192487;
     font-weight: bold;
 
 }
-.features p, .designer p, footer p {
+.features p, .designer p, footer p, .similar-product p {
     font-weight: 200;
     color: #b7b7b7;
 
@@ -69,3 +70,100 @@ body {
     border-radius: 5%;
 
 }
+
+/* Breadcrumb */
+
+.breadcrumb {
+    margin-top: 100px;
+}
+
+/* Products Box */
+
+.product-thumbnail-container {
+    background-color: white;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+    width: 360px;
+    padding: 8px;
+    margin: auto;
+    transform: translateY(-50px);
+}
+.product-thumbnail-container a:hover {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 15px;
+}
+.btn-product {
+    margin: 50px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #EAEAAF;
+}
+
+.btn-product .btn {
+    display: block;
+    margin: 10px 0;
+}
+.design-by h5 { 
+    font-size: 14px;
+    font-weight: 500;
+    color: #B7B7B7;
+    margin-bottom: 20px;
+}
+.design-by h4 {
+    font-size: 18px;
+    color: #171717;
+}
+
+.design-by p {
+    font-size: 14px;
+    font-weight: 200;
+    color: #171717;
+}
+
+.design-by p span {
+    color: #b7b7b7;
+}
+
+/* Products Description */
+
+.product-description {
+    background-color: #F6F7FB;
+    height: 350px;    
+}
+.product-description .tab-content {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-top: 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+}
+.product-description .tab-content p {
+    font-size: 16px;
+    font-weight: 200;
+    color: #868686;
+    line-height: 28px;
+}
+.product-review {
+    height: 300px;
+    overflow: scroll;
+}
+
+.product-review h5 {
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+.product-review p {
+    font-size: 14px !important;
+
+}
+
+/* Similar Product */
+.similar-product {
+    margin-top: 180px;
+    margin-bottom: 100px;
+}
+/* footer {
+    margin-top: 500px;
+}
+*/
