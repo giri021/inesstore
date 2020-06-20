@@ -34,15 +34,15 @@ body {
     font-weight: 200;
 }
 
-.features h3, .designer h3, .similar-product h3 {
-    font-family: 'Lora';
+.features h3, .designer h3, .similar-product h3, .checkout h3, .cart-header h3, .checkout-success-modal h3, .category h3 {
+    font-family: 'Lora'!important;
     color: #192487;
     font-weight: bold;
 
 }
-.features p, .designer p, footer p, .similar-product p {
+.features p, .designer p, footer p, .similar-product p, .checkout p, .cart-header p, .checkout-success-modal p, .category p {
     font-weight: 200;
-    color: #b7b7b7;
+    color: #b7b7b7 !important;
 
 }
 .figure h5 {
@@ -76,6 +76,11 @@ body {
 .breadcrumb {
     margin-top: 100px;
 }
+
+.cart-breadcrumb {
+    margin-top: 50px;
+}
+
 
 /* Products Box */
 
@@ -167,3 +172,8 @@ body {
     margin-top: 500px;
 }
 */
+
+/* Category Product */
+.category {
+    margin-top:80px;
+}
