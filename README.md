@@ -21,18 +21,23 @@ Lampiran Desain Web:
 ![Cat](https://github.com/giri021/inesstore/blob/master/adobexd/Home%20Page.png?raw=true)
 
  2. Category:
+ 
  ![Cat](https://github.com/giri021/inesstore/blob/master/adobexd/Category%20Page.png?raw=true)
  
  3. Single Product Description:
+ 
  ![Cat](https://github.com/giri021/inesstore/blob/master/adobexd/Single%20Products.png?raw=true)
  
  4. Single Products Review:
+ 
  ![Cat](https://github.com/giri021/inesstore/blob/master/adobexd/Single%20Products%20%E2%80%93%20review%20exist.png?raw=true)
  
  5. Your Cart:
+ 
  ![Cat](https://github.com/giri021/inesstore/blob/master/adobexd/Cart%20Page.png?raw=true)
  
  6. Check out:
+ 
  ![Cat](https://github.com/giri021/inesstore/blob/master/adobexd/Success%20-%20Checkout.png?raw=true)
  
  Sekian Dulu Dokumentasinya
