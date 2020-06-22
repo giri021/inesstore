@@ -1,5 +1,8 @@
 # inesstore
-Ines Store : Full-Stack Web Designer. Training online Web Store. Dari Desain UI UX, sampai Coding Front End Web berbasis Bootstrap v4.3.1.
+Ines Store : Full-Stack Web Designer. Training online Web Store. 
+Dari Desain UI UX, sampai Coding Front End Web berbasis Bootstrap v4.3.1.
+
+Link web: https://giri021.github.io/inesstore/index.html  atau https://giri021.github.io/inesstore/
 
 Web ini dibuat dari desian UX UI di Adobe XD, link file ada disini: https://xd.adobe.com/view/40c27566-479a-425b-9fc6-88141a7e9f04-1591/
 
